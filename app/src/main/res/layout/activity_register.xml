@@ -13,7 +13,8 @@
         android:layout_height="123dp"
         app:srcCompat="@drawable/travellanka"
         tools:layout_editor_absoluteX="131dp"
-        tools:layout_editor_absoluteY="53dp" />
+        tools:layout_editor_absoluteY="53dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/imageView10"
@@ -21,7 +22,8 @@
         android:layout_height="37dp"
         app:srcCompat="@drawable/facebook"
         tools:layout_editor_absoluteX="213dp"
-        tools:layout_editor_absoluteY="581dp" />
+        tools:layout_editor_absoluteY="581dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView4"
@@ -29,7 +31,8 @@
         android:layout_height="wrap_content"
         android:text="@string/text5"
         tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="550dp" />
+        tools:layout_editor_absoluteY="550dp"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/editTextTextPassword2"
@@ -39,7 +42,8 @@
         android:hint="@string/password"
         android:inputType="textPassword"
         tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="329dp" />
+        tools:layout_editor_absoluteY="329dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button2"
@@ -47,7 +51,8 @@
         android:layout_height="46dp"
         android:text="@string/btn_Register"
         tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="463dp" />
+        tools:layout_editor_absoluteY="463dp"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress3"
@@ -57,7 +62,8 @@
         android:hint="@string/email"
         android:inputType="textEmailAddress"
         tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="256dp" />
+        tools:layout_editor_absoluteY="256dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/imageView9"
@@ -65,7 +71,8 @@
         android:layout_height="37dp"
         app:srcCompat="@drawable/google"
         tools:layout_editor_absoluteX="172dp"
-        tools:layout_editor_absoluteY="581dp" />
+        tools:layout_editor_absoluteY="581dp"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/editTextTextPassword3"
@@ -75,7 +82,8 @@
         android:hint="@string/password2"
         android:inputType="textPassword"
         tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="403dp" />
+        tools:layout_editor_absoluteY="403dp"
+        tools:ignore="MissingConstraints" />
 
     <EditText
         android:id="@+id/editTextText"
@@ -85,7 +93,8 @@
         android:hint="@string/text4"
         android:inputType="text"
         tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="189dp" />
+        tools:layout_editor_absoluteY="189dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/imageView11"
@@ -93,5 +102,6 @@
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/baseline_arrow_back_24"
         tools:layout_editor_absoluteX="6dp"
-        tools:layout_editor_absoluteY="29dp" />
+        tools:layout_editor_absoluteY="29dp"
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
