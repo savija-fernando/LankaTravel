@@ -9,81 +9,21 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="148dp"
-        android:layout_height="123dp"
-        app:srcCompat="@drawable/travellanka"
-        tools:layout_editor_absoluteX="131dp"
-        tools:layout_editor_absoluteY="53dp"
-        tools:ignore="MissingConstraints" />
-
-    <ImageView
-        android:id="@+id/imageView10"
         android:layout_width="31dp"
         android:layout_height="37dp"
         app:srcCompat="@drawable/facebook"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="213dp"
-        tools:layout_editor_absoluteY="581dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="581dp" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text5"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="550dp"
-        tools:ignore="MissingConstraints" />
-
-    <EditText
-        android:id="@+id/editTextTextPassword2"
-        android:layout_width="332dp"
-        android:layout_height="47dp"
-        android:ems="10"
-        android:hint="@string/password"
-        android:inputType="textPassword"
-        tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="329dp"
-        tools:ignore="MissingConstraints" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="331dp"
-        android:layout_height="46dp"
-        android:text="@string/btn_Register"
-        tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="463dp"
-        tools:ignore="MissingConstraints" />
-
-    <EditText
-        android:id="@+id/editTextTextEmailAddress3"
-        android:layout_width="332dp"
-        android:layout_height="47dp"
-        android:ems="10"
-        android:hint="@string/email"
-        android:inputType="textEmailAddress"
-        tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="256dp"
-        tools:ignore="MissingConstraints" />
-
-    <ImageView
-        android:id="@+id/imageView9"
-        android:layout_width="31dp"
-        android:layout_height="37dp"
-        app:srcCompat="@drawable/google"
-        tools:layout_editor_absoluteX="172dp"
-        tools:layout_editor_absoluteY="581dp"
-        tools:ignore="MissingConstraints" />
-
-    <EditText
-        android:id="@+id/editTextTextPassword3"
-        android:layout_width="332dp"
-        android:layout_height="47dp"
-        android:ems="10"
-        android:hint="@string/password2"
-        android:inputType="textPassword"
-        tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="403dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="550dp" />
 
     <EditText
         android:id="@+id/editTextText"
@@ -92,9 +32,69 @@
         android:ems="10"
         android:hint="@string/text4"
         android:inputType="text"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="189dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="189dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="31dp"
+        android:layout_height="37dp"
+        app:srcCompat="@drawable/google"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="581dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="148dp"
+        android:layout_height="123dp"
+        app:srcCompat="@drawable/travellanka"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="53dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword2"
+        android:layout_width="332dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:hint="@string/password2"
+        android:inputType="textPassword"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="403dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword3"
+        android:layout_width="332dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="329dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="331dp"
+        android:layout_height="46dp"
+        android:text="@string/btn_Register"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="463dp" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress2"
+        android:layout_width="332dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="256dp" />
 
     <ImageView
         android:id="@+id/imageView11"
