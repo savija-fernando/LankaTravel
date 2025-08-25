@@ -10,5 +10,21 @@
     <string name="password2">Confirm Password</string>
     <string name="btn_Register">Register</string>
     <string name="text5">Or Sign up with</string>
+    <string name="heading">Travel Lanka</string>
+    <string name="text6">Agents</string>
+    <string name="daily_planner">Daily Planner</string>
+    <string name="overview">Overview</string>
+    <string name="profile">Profile</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_savija">Welcome Savija !</string>
+    <string name="maps">Maps</string>
+    <string name="map">Map</string>
+    <string name="notification">notification</string>
+    <string name="notifications">Notifications</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="log_out">log_out</string>
+    <string name="logOut">Log out</string>
+    <string name="edit_info">edit_info</string>
+
 
 </resources>
