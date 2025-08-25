@@ -18,30 +18,27 @@ android:spacing="12dp">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="234dp">
+        android:layout_height="80dp">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="194dp" >
-
-            <ImageView
-                android:id="@+id/appLogo"
-                android:layout_width="130dp"
-                android:layout_height="134dp"
-                android:layout_gravity="center"
-                android:contentDescription="Travel Lanka Logo"
-                android:src="@drawable/travellanka"
-                tools:layout_editor_absoluteX="125dp"
-                tools:layout_editor_absoluteY="62dp"
-                tools:ignore="MissingConstraints" />
+            android:layout_height="151dp">
 
             <ImageView
                 android:id="@+id/imageView12"
                 android:layout_width="32dp"
                 android:layout_height="42dp"
                 app:srcCompat="@drawable/menu"
-                tools:layout_editor_absoluteY="3dp"
-                tools:ignore="MissingConstraints" />
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteY="3dp" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="316dp"
+                android:layout_height="132dp"
+                app:srcCompat="@drawable/app_logo"
+                tools:layout_editor_absoluteX="31dp"
+                tools:layout_editor_absoluteY="-34dp" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
     </androidx.cardview.widget.CardView>
@@ -53,7 +50,7 @@ android:spacing="12dp">
     android:layout_marginTop="16dp"
     app:cardCornerRadius="16dp"
     app:cardElevation="6dp"
-    app:cardBackgroundColor="#5BD61E">
+    app:cardBackgroundColor="#0B7550">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -234,7 +231,7 @@ android:spacing="12dp">
                 android:layout_marginTop="16dp"
                 android:text="To-Do"
                 android:textSize="40dp"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textStyle="bold"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
@@ -245,7 +242,7 @@ android:spacing="12dp">
                 android:layout_height="wrap_content"
                 android:text="EXPAND ALL"
                 android:textStyle="bold"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 tools:ignore="MissingConstraints"
                 tools:layout_editor_absoluteX="16dp"
                 tools:layout_editor_absoluteY="108dp" />

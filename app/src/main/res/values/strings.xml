@@ -25,6 +25,8 @@
     <string name="log_out">log_out</string>
     <string name="logOut">Log out</string>
     <string name="edit_info">edit_info</string>
+    <string name="underlined_text"><u>Load more</u></string>
+
 
 
 </resources>
