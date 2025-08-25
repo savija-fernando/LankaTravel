@@ -10,5 +10,10 @@
     <string name="password2">Confirm Password</string>
     <string name="btn_Register">Register</string>
     <string name="text5">Or Sign up with</string>
+    <string name="heading">Travel Lanka</string>
+    <string name="text6">Agents</string>
+    <string name="daily_planner">Daily Planner</string>
+    <string name="overview">Overview</string>
+
 
 </resources>
