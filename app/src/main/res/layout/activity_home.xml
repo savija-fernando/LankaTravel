@@ -65,9 +65,9 @@ android:spacing="12dp">
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Book Best Trip Agents in Sri Lanka"
+            android:textColor="@android:color/white"
             android:textSize="20sp"
-            android:textStyle="bold"
-            android:textColor="@android:color/white"/>
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/bookAgentBtn"
