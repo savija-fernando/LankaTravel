@@ -27,7 +27,8 @@
                 android:textSize="25dp"
                 android:textStyle="bold"
                 tools:ignore="MissingConstraints"
-                tools:layout_editor_absoluteX="116dp" />
+                tools:layout_editor_absoluteX="118dp"
+                tools:layout_editor_absoluteY="7dp" />
 
             <TextView
                 android:id="@+id/progressText2"
